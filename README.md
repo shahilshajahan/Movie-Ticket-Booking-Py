@@ -65,38 +65,6 @@
   </tr>
 </table>
 
-### 🤝 Support My Open Source Work
-
-I build and maintain free, open-source software to solve real-world problems.
-If you find my projects useful, you can support future development here:
-
-<div align="left" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://buymeacoffee.com/shahils">
-    <img src="https://i.postimg.cc/SKLqz7BH/kofi.png" height="50" width=auto alt="shahils" />
-  </a>
-  <a>
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/shahils" />
-  </a>
-  <a href="https://paypal.me/MohamedShahil">
-    <img src="https://i.postimg.cc/d3WThfdv/paypal.png" height="55" width=auto />
-  </a>
-</div>
-
-- ☕ Ko-fi → https://ko-fi.com/shahilshajahan
-- 💛 Buy Me a Coffee → https://buymeacoffee.com/shahils
-- 💙 PayPal → https://paypal.me/MohamedShahil
-
-Your support helps me dedicate more time to developing and maintaining open-source projects. Thank you! ❤️
-
-<div align="left" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://buymeacoffee.com/shahils">
-    <img src="https://i.postimg.cc/SQdPYtnh/UPI.png" height=auto width="270" alt="shahils" />
-  </a>
- <br>
-  <a>
-    <img src="https://i.postimg.cc/wMrCJkh5/phonepe.png" height="290" width=auto />
-  </a>
-</div>
 
 <p>
 </p>
