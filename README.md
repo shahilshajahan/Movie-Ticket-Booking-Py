@@ -18,7 +18,7 @@
 <img src="https://i.postimg.cc/7ZbmZfYL/9.jpg" alt="Datas Stored in SQL" width=100% height=auto/>
 <h2></h2>
 <br>
-<h2>About me:</h2> <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&color=F7CB00&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Shahil+S" alt="Typing SVG" /></a></h1>
+<h2>About me:</h2> <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dubai&size=22&pause=1000&color=00F7D3&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Shahil+Shajahan" alt="Typing SVG" /></a></h1>
 
  <h3 align="center">🚀 Open-Source & Freelance Developer | Turning Ideas into Tools</h3>
 
